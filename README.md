@@ -1,6 +1,8 @@
 # Unity Oculus Test project
-[Youtube](https://youtu.be/GQF2ZLWYkRs)
+[Rig](https://youtu.be/GQF2ZLWYkRs)
 
-* Open folder with Unity 2020.2.4f1
+* Open folder with Unity 2020.2.5f1
 * Open SampleScene
 * 
+
+[Hands](https://youtu.be/qThlKMMHSpU)
